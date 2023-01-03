@@ -4,7 +4,7 @@ Some description!
 
 ## Subheader
 
-Watch more Git and Github course on YouTube.
+Learning and doing all exercises on Git lecture on Bregman-Arie Github page.
 
 
 ## Digging more deeper on the understanding of Git.
